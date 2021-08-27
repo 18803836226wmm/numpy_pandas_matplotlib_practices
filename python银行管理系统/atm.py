@@ -68,6 +68,7 @@ class ATM(object):
             return
     # 判断卡号是否存在
     def isExistence(self):
+        print("账号咩有存在咩")
         pass
 
 
